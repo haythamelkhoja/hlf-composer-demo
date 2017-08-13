@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Hyperledger Composer
+name: composer
+version: 0.1.0
